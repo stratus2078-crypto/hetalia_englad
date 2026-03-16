@@ -1,0 +1,23 @@
+/* Free to use CSS template by Katie (#106445). Cave image replacement code by Bobtail (#79288). This code may be altered, edited, or re-uploaded. Designed by Quake #69866. */
+/* FONT (From Google Fonts) */
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap');
+/* BACKGROUND */
+body {
+   background: url('https://i.ibb.co/0yDqk3Nt/lamb757577542hak8.jpg') center center fixed;
+   background-size: 100%;
+   font-family: 'Roboto', sans-serif;
+   color: #FFFFFF;
+}
+/* HEADER */
+#header {
+   background-color: rgba(0, 0, 0, 0.5);
+   padding: 10px;
+}
+/* LINKS */
+a {
+   color: #FFD700;
+   text-decoration: none;
+}
+a:hover {
+   text-decoration: underline;
+}
